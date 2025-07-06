@@ -1,2 +1,3 @@
 # Aliuwucord
-Aliucord with slash command
+
+We bring things aliucord dont have 
